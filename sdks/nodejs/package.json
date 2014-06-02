@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/apigee/usergrid-node-module.git"
+    "url": "git://github.com/dreadjr/usergrid.git"
   },
   "bugs": {
-    "url": "http://github.com/apigee/usergrid-node-module.git/issues"
+    "url": "http://github.com/dreadjr/usergrid.git/issues"
   },
   "keywords": [
     "Node",
